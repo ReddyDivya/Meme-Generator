@@ -71,4 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 Check Out Demo here
+
+![memeGen](https://user-images.githubusercontent.com/34181144/114351665-8ab66980-9b88-11eb-96c8-4e1340899acc.jpg)
+
 ![GenMeme](https://user-images.githubusercontent.com/34181144/112659891-de337280-8e7a-11eb-9697-b2db5663b216.gif)
